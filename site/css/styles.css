@@ -25,6 +25,8 @@ p {
 }
 .row {
   width: 100%;
+  background-color: #000353;
+  margin-right: 2px;
 }
 
 
